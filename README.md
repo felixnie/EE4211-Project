@@ -17,12 +17,12 @@
 1. 新成员通过fork dev分支得到一个自己的repo
 2. 将自己的repo clone到本地
 3. 修改 - git add - git commit - git push：
-  1. git clone https://github.com/YOUR_NAME/EE4211-Project.git
-  2. cd EE4211-Project
-  3. git add .
-  4. git status
-  5. git commit -m "Some description here"
-  6. git push origin main
+  - git clone https://github.com/YOUR_NAME/EE4211-Project.git
+  - cd EE4211-Project
+  - git add .
+  - git status
+  - git commit -m "Some description here"
+  - git push origin main
 4. Pull request
    PR到dev分支
 5. 关于更新自己已fork的repo：
