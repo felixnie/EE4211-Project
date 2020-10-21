@@ -16,25 +16,7 @@
 关于Q2
 
 Q2.1
-why you may want to forecast the gas consumption in the future?   
-回答：   
-In the recently years, gas has begun to be widely used in power generation in both manufacturing and commercial.Accurate prediction of the gas consumption could benefit us on several aspects:   
-(1). Energy Saving.Knowing the gas demand could drive us to product the energy sources more efficiently. Unnecessary waste could be reduced.       
-(2). Energy Security.It allows the gas company to prevent and detect if there is any gas leakage during the transporting.      
-(3). Urban Planning.The accurate and reasonable prediction of natural gas consumption is significant for the government to formulate the urban planning and infrastructure constructing.       
-
-
-Who would find this information valuable?    
-回答：     
-Government, gas user, gas company, gos distribution company,gas production countries and even our environment will benefit from it.     
-
-
-What can you do if you have a good forecasting model?     
-回答：      
-With the good forecasting model, we could:     
-(1).Cooperate with gas industry to improve the efficiency.     
-(2).Propose reasonable gas price according to the demand relation.     
-(3).Analyse and improve the transporting security if the leakage happens regularly.      
+Refer to "Question2.ipynb"  
 
 ## GitHub 101
 1. 新成员通过fork dev分支得到一个自己的repo
