@@ -11,7 +11,7 @@
 - set higher display resolution
 - add weekly_usage to analyze weekday/weekend usage
 
-To-do: add more analyzation
+To-do: add more analyzation, 1.3 part1 part2
 
 ## Discussion
 关于Q1， 判断坏掉的主要依据：
