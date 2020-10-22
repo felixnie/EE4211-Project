@@ -6,10 +6,10 @@
 - Q3: 10 November 23:59
 
 ## Changelog
-add plot_month to plot monthly value readings by calling function select_data and hourly_data_by_group by Zhang
-add data analyzation in 1.1 by Pan
-set higher display resolution
-add weekly_usage to analyze weekday/weekend usage
+- add plot_month to plot monthly value readings by calling function select_data and hourly_data_by_group by Zhang
+- add data analyzation in 1.1 by Pan
+- set higher display resolution
+- add weekly_usage to analyze weekday/weekend usage
 
 To-do: add more analyzation
 
