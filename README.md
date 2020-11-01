@@ -44,6 +44,26 @@ With the good forecasting model, we could:
 (2).Propose reasonable gas price according to the demand relation.     
 (3).Analyse and improve the transporting security if the leakage happens regularly.      
 
+关于Q3的proposal：     
+
+We may choose one of the following:
+
+1,Find out the malfunctioning meter             
+  (a).Base on the decreasing value      
+  (b).Base on the stagnant frequency               
+     
+2,Leakage detection      
+  Base on the forecast value, we can set a threshold to determine the possibility of gas leakage.      
+
+3,Set a reasonable report reading value.     
+  Currently the meter report a reading when the last marginal 2 cubic foot (or higher) of natural gas passes through the meter.             
+  We could        
+  (a).set a larger meter report reading during peak hour (maybe 4 cubic foot) to reduce the processing and bandwidth requirements.      
+  (b).set a smaller mater report reading during off-peak hour (maybe 1 cubic foot). If the meter is keep reporting the    
+      reading during the night off-peak hour(especially 11pm to 5am), then there is a possibility of gas leakage.
+      
+      
+
 ## GitHub 101
 1. 新成员通过fork dev分支得到一个自己的repo
 2. 将自己的repo clone到本地
